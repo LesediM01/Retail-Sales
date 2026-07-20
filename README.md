@@ -3,7 +3,7 @@
 This project demonstrates the use of a Databricks Agent to analyse Bright TV viewership data. The agent answer natural language questions and provides insights into viewer demographics, viewing behaviour, and viewing trends.  
 
 ## Dataset consists of viwer information such as: 
-- User IDs Names and Surnames
+- User IDs 
 - Names and Surnames
 - Email
 - Gender
