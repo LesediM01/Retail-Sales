@@ -11,13 +11,13 @@ This project demonstrates the use of a DAtabricks
 - Age
 - Province
 
-  ##Features
+ ## Features
   -Natural Language queries
   -Viewership analysis
   -Charts
   -Validated responses
 
-  ##Technologies Used
+## Technologies Used
   -Databricks
   -SQL
   -GitHub
