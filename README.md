@@ -1,4 +1,4 @@
-# Bright TV ANalytics Agent
+# Bright TV Analytics Agent
 ## Project Overview 
 This project demonstrates the use of a DAtabricks 
 
