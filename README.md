@@ -6,7 +6,7 @@ This project demonstrates the use of a DAtabricks
 -User ID 
 - Names and Surnames
 - Email
-- -Gender
+- Gender
 - Race
 - Age
 - Province
